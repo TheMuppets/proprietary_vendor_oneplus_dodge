@@ -18,7 +18,6 @@ AB_OTA_PARTITIONS += \
     keymaster \
     modem \
     oplus_sec \
-    oplusstanvbk \
     pdp \
     pdp_cdb \
     pvmfw \
