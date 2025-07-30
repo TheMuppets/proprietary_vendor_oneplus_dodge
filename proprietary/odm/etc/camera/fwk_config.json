@@ -399,6 +399,16 @@
     },
     "com.whatsapp": {
         "app_enable_rio": true
+        "app_disable_fb_activity": [
+        "com.whatsapp.camera.CameraActivity",
+        "com.whatsapp.HomeActivity",
+        "com.whatsapp.qrcode.contactqr.ContactQrActivity",
+        "com.whatsapp.statuscomposer.ConsolidatedStatusComposerActivity",
+        "com.whatsapp.status.composer.ConsolidatedStatusComposerActivity"
+        ],
+        "app_enable_fb_activity": [
+            ""
+        ]
     },
     "com.tencent.wework": {
         "needLimitFpsForAPI1": true,

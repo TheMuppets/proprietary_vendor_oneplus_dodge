@@ -772,7 +772,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/oprec_audrec_params/oprec_record_ID9_HE.bin:$(TARGET_COPY_OUT_ODM)/etc/oprec_audrec_params/oprec_record_ID9_HE.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/oprec_audrec_params/oprec_record_ID9_HE.txt:$(TARGET_COPY_OUT_ODM)/etc/oprec_audrec_params/oprec_record_ID9_HE.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/resourcemanager.xml:$(TARGET_COPY_OUT_ODM)/etc/resourcemanager.xml \
-    vendor/oneplus/dodge/proprietary/odm/etc/sdm_display_resolution_extn.xml:$(TARGET_COPY_OUT_ODM)/etc/sdm_display_resolution_extn.xml \
     vendor/oneplus/dodge/proprietary/odm/etc/sensor/config/dodge_qrd_ois_system.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/dodge_qrd_ois_system.json \
     vendor/oneplus/dodge/proprietary/odm/etc/sensor/config/json_list:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/json_list \
     vendor/oneplus/dodge/proprietary/odm/etc/sensor/config/lux_aod.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/lux_aod.json \

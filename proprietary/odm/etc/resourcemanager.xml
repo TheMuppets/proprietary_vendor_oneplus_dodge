@@ -95,6 +95,8 @@
         <param key="oplus_opve_err_fb" value="true"/>
         <!-- Yongzhi.Zhang@MULTIMEDAI.AUDIODRIVER.HAL, 2023/11/22, add for spk prot diff latency feature -->
         <param key="speaker_diff_latency_support" value ="true" />
+        <!-- yangxuewen@MULTIMEDAI.AUDIODRIVER.HAL, 2025/05/27, add for voice translation feature -->
+        <param key="OPLUS_VOICE_TRANSLATION_SUPPORT" value ="true" />
     </config_params>
     <config_volume>
         <use_volume_set_param>1</use_volume_set_param>
