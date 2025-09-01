@@ -897,9 +897,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/wifi/peach/regdb_version:$(TARGET_COPY_OUT_ODM)/etc/wifi/peach/regdb_version \
     vendor/oneplus/dodge/proprietary/odm/firmware/aw882xx_acf.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw882xx_acf.bin \
     vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/23821/charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/23821/charging_hyper_mode_config.txt \
-    vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/23821/single_charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/23821/single_charging_hyper_mode_config.txt \
     vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/23893/charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/23893/charging_hyper_mode_config.txt \
-    vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/23893/single_charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/23893/single_charging_hyper_mode_config.txt \
     vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/batt_dchg_ctrl_config_table.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/batt_dchg_ctrl_config_table.txt \
     vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/batt_eis_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/batt_eis_config.txt \
     vendor/oneplus/dodge/proprietary/odm/firmware/fastchg/batt_si_loss_config_table.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/batt_si_loss_config_table.txt \
