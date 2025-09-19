@@ -1005,6 +1005,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/vendor/etc/display_demura_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_demura_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/display_demura_config_v2_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_demura_config_v2_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
+    vendor/oneplus/dodge/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
+    vendor/oneplus/dodge/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/oneplus/dodge/proprietary/vendor/etc/ltm_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/sensors/config/json.lst:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/json.lst \
     vendor/oneplus/dodge/proprietary/vendor/etc/sensors/config/qsh_camera_common.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/qsh_camera_common.json \
