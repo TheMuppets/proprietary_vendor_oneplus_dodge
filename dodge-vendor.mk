@@ -1446,8 +1446,6 @@ PRODUCT_PACKAGES += \
     libubifocus \
     libvideoml \
     sensors.qsh \
-    vendor.oplus.hardware.camera_rfi-V3-ndk \
-    vendor.oplus.hardware.cammidasservice-V1-ndk_vendor \
     vendor.qti.hardware.camera.aon-service-impl \
     vendor.qti.hardware.camera.offlinecamera-service-impl \
     com.qti.sensor.dodgefront \
@@ -1598,13 +1596,9 @@ PRODUCT_PACKAGES += \
     libwrapper_te \
     libyuvwrapper \
     libzlib \
-    vendor.oplus.hardware.camera.aon-V1-ndk_platform \
     vendor.oplus.hardware.camera.aon-service-impl \
-    vendor.oplus.hardware.camera_rfi-V1-ndk \
     vendor.oplus.hardware.camera_rfi-V1-service-impl \
-    vendor.oplus.hardware.cammidasservice-V1-ndk \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
-    vendor.oplus.hardware.sendextcamcmd-V2-ndk \
     EuiccGoogle \
     vendor.qti.camera.aon-impl.xml \
     vendor.qti.camera.offlinecamera-impl.xml \
