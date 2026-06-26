@@ -795,8 +795,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/init/init.camera_process.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_process.rc \
     vendor/oneplus/dodge/proprietary/odm/etc/init/init.camera_upate.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_upate.rc \
     vendor/oneplus/dodge/proprietary/odm/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc \
-    vendor/oneplus/dodge/proprietary/odm/etc/libnfc-mtp-SN220.conf_23821:$(TARGET_COPY_OUT_ODM)/etc/libnfc-mtp-SN220.conf_23821 \
-    vendor/oneplus/dodge/proprietary/odm/etc/libnfc-mtp-SN220.conf_23893:$(TARGET_COPY_OUT_ODM)/etc/libnfc-mtp-SN220.conf_23893 \
     vendor/oneplus/dodge/proprietary/odm/etc/mixer_paths.xml:$(TARGET_COPY_OUT_ODM)/etc/mixer_paths.xml \
     vendor/oneplus/dodge/proprietary/odm/etc/oprec_audrec_params/oprec_audrec_config.txt:$(TARGET_COPY_OUT_ODM)/etc/oprec_audrec_params/oprec_audrec_config.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/oprec_audrec_params/oprec_camback_calibration.bin:$(TARGET_COPY_OUT_ODM)/etc/oprec_audrec_params/oprec_camback_calibration.bin \
@@ -1072,7 +1070,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/vendor/etc/display_demura_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_demura_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/display_demura_config_v2_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_demura_config_v2_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
-    vendor/oneplus/dodge/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/oneplus/dodge/proprietary/vendor/etc/ltm_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA569_P_3_A0019_dsc_cmd_mode_panel.xml \
     vendor/oneplus/dodge/proprietary/vendor/etc/sensors/config/json.lst:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/json.lst \
     vendor/oneplus/dodge/proprietary/vendor/etc/sensors/config/qsh_camera_common.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/qsh_camera_common.json \
