@@ -1009,6 +1009,16 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/firmware/tp/23821/sys_touch_algo_feature_config.xml:$(TARGET_COPY_OUT_ODM)/firmware/tp/23821/sys_touch_algo_feature_config.xml \
     vendor/oneplus/dodge/proprietary/odm/firmware/tp/23821/sys_touch_function_feature_config.xml:$(TARGET_COPY_OUT_ODM)/firmware/tp/23821/sys_touch_function_feature_config.xml \
     vendor/oneplus/dodge/proprietary/odm/firmware/tp/23821/sys_touch_scene_config.xml:$(TARGET_COPY_OUT_ODM)/firmware/tp/23821/sys_touch_scene_config.xml \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b00:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b00 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b01:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b01 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b02:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b02 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b03:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b03 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b04:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b04 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b05:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b05 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b06:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b06 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b07:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b07 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.b08:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.b08 \
+    vendor/oneplus/dodge/proprietary/odm/firmware/uff_face.mdt:$(TARGET_COPY_OUT_ODM)/firmware/uff_face.mdt \
     vendor/oneplus/dodge/proprietary/odm/firmware/uff_gx.b00:$(TARGET_COPY_OUT_ODM)/firmware/uff_gx.b00 \
     vendor/oneplus/dodge/proprietary/odm/firmware/uff_gx.b01:$(TARGET_COPY_OUT_ODM)/firmware/uff_gx.b01 \
     vendor/oneplus/dodge/proprietary/odm/firmware/uff_gx.b02:$(TARGET_COPY_OUT_ODM)/firmware/uff_gx.b02 \
@@ -1585,6 +1595,7 @@ PRODUCT_PACKAGES += \
     libsharebuffer_impl \
     libssd_det \
     libstface_fd_api \
+    libstfaceunlockocl_uff \
     libstfd_mobile_api \
     libtrace \
     libvega_common \
